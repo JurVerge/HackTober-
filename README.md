@@ -1,4 +1,3 @@
 # HackTober-
 Open Source
-dgfdgsgdsgfsdbhnzdfgdfrghr
-dsgdhs
+New to hackTober
